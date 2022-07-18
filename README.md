@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leslie
 - 👀 I’m interested in ML application in digital marketing and financial industries
 - 🌱 I’m currently a graduate student, studiying in MSIS at UMD
-- 💞️ My hobbies are reading all sorts of books (novels, biography),watching movies, and free diving in beautiful ocean!
+- 💞️ My hobbies are reading all sorts of books (novels, biography),watching movies, and freediving in beautiful ocean!
 - 📫 How to reach me : yclin829@umd.edu
 
 <!---
